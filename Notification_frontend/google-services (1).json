@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757470683851",
+    "project_id": "notification-send-dd463",
+    "storage_bucket": "notification-send-dd463.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757470683851:android:534da78f188bd6d55b314e",
+        "android_client_info": {
+          "package_name": "ashish.notification.hehe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-gbrNLJ94pC6K_GEP29aHULha456iDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
