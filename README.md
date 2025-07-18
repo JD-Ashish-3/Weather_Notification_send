@@ -32,14 +32,11 @@ This project sends real-time **rain notifications** to users using **Firebase Cl
 ### ✅ Frontend
 - Asks user permission to receive notifications.
 - Retrieves FCM device token.
-- Displays confirmation on successful subscription.
 
 ### ✅ Backend
-- Accepts device tokens (if needed).
-- Sends notifications when rain data changes (like 80% rain or “Yes” condition).
+- Sends notifications when rain data changes (like 80% rain or “Yes” condition) 
 - Uses Firebase Admin SDK for sending notifications.
 
----
 
 ## 🌍 Live Demo
 
