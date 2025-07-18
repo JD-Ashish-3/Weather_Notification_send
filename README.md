@@ -47,28 +47,6 @@ This project sends real-time **rain notifications** to users using **Firebase Cl
 
 ---
 
-## 📁 Project Structure
-weather-notification-system/
-├── backend/
-│ ├── MyfcmKey.json # Firebase service account key (should be in .gitignore)
-│ ├── index.js # Express backend to send notifications
-│ ├── package.json
-│ └── .env # Backend environment variables
-│
-├── frontend/
-│ ├── public/
-│ │ └── firebase-messaging-sw.js # Firebase service worker for notifications
-│ ├── src/
-│ │ ├── App.jsx # Main React component
-│ │ ├── firebase-messaging.js # Firebase config and messaging setup
-│ │ └── index.js
-│ ├── .env # Frontend environment variables
-│ ├── package.json
-│ └── vite.config.js
-│
-├── .gitignore
-├── README.md
-└── LICENSE
 
 
 
