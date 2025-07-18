@@ -19,8 +19,8 @@ const apikey = process.env.WEATHER_API_KEY;
 const city = process.env.CITY;
 
 let tokens = [
-  'eaHp2meSJW_shWThe3DS7S:APA91bH3XfFPJ7pAgD--_bJHL8xEbXsYrve0MWLwR62dAXFtlc9qbiifo7gmLjWDpwZjFFoPdtZWJgvgeZ-C6zh42Jb_Q-xSZ5FapO0KC-pKuk9gUECxEqs',
-  'fKoZlooyrwV-GRdyVSZlH_:APA91bHOSgooTugh9sBpkjILC4BI80vxDBO6WZWgx5EwMxRSVX36leEywqRR0YoS7AMYm3VWVP0vKE3B7ixmx3kreuOkXoRJpbXKLmtBBEz0YIZNZcMimsg',
+  'clBfRWu6XnnswiQv96uOgE:APA91bF2WXt-yw5qHTShKDYKHGrspjaunuU--Db8WROrSJeRpBrPDRhOlmv0NCpCpwLPXSBfuL8hSFt4LKGWuHTpu64FdW2767MccpsXh8iPMIwX1DZuSiU',
+  'cCaLu4kdhcmj_HYm7ZmXTs:APA91bEbdwjn8dEjQVRq-vYzjOCvZ61tQ1Jhu4sthA4leih3hhg3X39BL6jeZcLhvQJj2A-voOapu2mjCTxgl4lDv2jJe-X1PWeBkJrPffKpLE21J8uZ9zA',
 ]
 
 app.use(cors());
