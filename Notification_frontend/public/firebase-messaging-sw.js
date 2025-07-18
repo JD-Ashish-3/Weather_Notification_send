@@ -2,12 +2,13 @@
 self.importScripts('https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js');
 self.importScripts('https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-compat.js');
 
-const apiKey = "AIzaSyAg-gbrNLJ94pC6K_GEP29aHULha456iDM";
-const authDomain = "notification-send-dd463.firebaseapp.com";
-const projectId = "notification-send-dd463";
-const storageBucket = "notification-send-dd463.appspot.com";
-const messagingSenderId = "757470683851";
-const appId = "1:757470683851:android:534da78f188bd6d55b314e";
+const apiKey = "AIzaSyCyT2vzVGKjMlEZAuPBAjbRmLQ2ucHgoO4";
+const authDomain = "ashish-426e5.firebaseapp.com";
+const projectId = "ashish-426e5";
+const storageBucket = "ashish-426e5.firebasestorage.app";
+const messagingSenderId = "1077765061784";
+const appId = "1:1077765061784:android:bc76caea1eb56bc17d64ed";
+
 
 firebase.initializeApp({
   apiKey: apiKey, 

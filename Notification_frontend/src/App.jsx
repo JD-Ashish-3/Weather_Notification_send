@@ -10,7 +10,7 @@ const App = () => {
   const requestPermissionAndGenerateToken = async () => {
     try {
       const currentToken = await getToken(messaging, {
-        vapidKey:'BMocaCC68GKOPWggZS1FiJw9hy_lWJviaudVdEynWyhW9tKF1HczN4HkLgkidpwv017aQ8LRKYhKYz3tXU6wW34',
+        vapidKey:import.meta.env.VITE_VAPID_KEY
       });
 
       if (currentToken) {
